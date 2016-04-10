@@ -1,0 +1,1 @@
+get-vm "WINDOWS-OS-XP" | Get-Datastore | Select-Object -Property name 
