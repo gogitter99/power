@@ -1,0 +1,1 @@
+Get-NetworkAdapter -VM WINDOWS-SERVER-2012-VPN
