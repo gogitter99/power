@@ -1,0 +1,2 @@
+Get-Disk | ? IsOffline | Set-Disk -IsOffline:$false
+
